@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SHS Student Registration</string>
+    <string-array name="academic_program">
+        <item>ABM</item>
+        <item>BSIT</item>
+        <item>BSCS</item>
+        <item>BSCpE</item>
+        <item>MSIT</item>
+        <item>MSCS</item>
+    </string-array>
+
+</resources>
